@@ -1,5 +1,5 @@
 # fix-nswitch-dates
-This script reads the file names of Photos media as dates in a format writes that date in the photo metadata. It was made for use with old Nintendo Switch videos that claim to be from about 1970. It is designed exclusively for use with Apple Photos on Mac.
+This script reads the file names of Photos media as dates in a format without separators & writes that date in the photo metadata. It was made for use with old Nintendo Switch videos that claim to be from about 1970. It is designed exclusively for use with Apple Photos on Mac.
 ## Instructions
 Using Apple Photos on Mac, open a Photos Library containing Nintendo Switch videos. Make sure the videos have not been renamed.
 
